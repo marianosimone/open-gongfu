@@ -1,6 +1,8 @@
 # 八段锦
 ## Bāduànjǐn ("The Eight Pieces of Brocade")
 
+_Repeat each exercise nine times (the ones that are made in both sides will be made eighteen times)_
+
 ### 双手 托 天理 三焦 ("Two Hands Hold up the Heavens")
 It consists of an upward movement of the hands, which are loosely joined and travel up the center of the body, while the heels are lifted. This move is said to stimulate the "Triple Warmer" meridian (Sanjiao).
 

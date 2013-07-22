@@ -1,7 +1,7 @@
 # 八段锦
 ## Bāduànjǐn/"The Eight Pieces of Brocade"
 
-## 双手 托 天理 三焦 ("Two Hands Hold up the Heavens")
+### 双手 托 天理 三焦 ("Two Hands Hold up the Heavens")
 It consists of an upward movement of the hands, which are loosely joined and travel up the center of the body, while the heels are lifted. This move is said to stimulate the "Triple Warmer" meridian (Sanjiao).
 
 ### 左右 拉弓 如 射雕 ("Drawing the Bow to Shoot the Hawk (or Vulture)")

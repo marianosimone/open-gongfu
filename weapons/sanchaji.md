@@ -1,4 +1,4 @@
-# 三叉戟/
+# 三叉戟
 ## Sānchājǐ ("Trident")
 
 ### Forms

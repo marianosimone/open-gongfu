@@ -3,7 +3,7 @@
 
 ### Forms
 
-- 十字次 (?)
+- 托天叉
 
 ### How to use
 
@@ -14,4 +14,4 @@
 ### A.K.A.
 
 - 三虎叉 (Sān Hǔ Chā/"Tiger Fork")
-- 三股叉 (Sān Gǔ Chā)
+- 三股叉 (Sāngǔ Chā)

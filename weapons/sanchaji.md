@@ -15,3 +15,4 @@
 
 - 三虎叉 (Sān Hǔ Chā/"Tiger Fork")
 - 三股叉 (Sāngǔ Chā)
+- 钢叉 (Gāng Chā)

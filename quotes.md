@@ -1,0 +1,1 @@
+- "The reason for postures in the martial arts, is to facilitate transformations (...) Forms contain fixed postures, but in actual practice there are no fixed postures. When applied they become fluid, but still maintain their structural characteristics." - Tang Shunzhi (1507–1560)

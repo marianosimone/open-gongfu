@@ -17,3 +17,7 @@ Axioms And Principles of Cheng Man Ching's Tai Chi
 > It is known that, when we learn or train in something, we pass through the stages of shu, ha, and ri (守破離). These stages are explained as follows. In shu, we repeat the forms and discipline ourselves so that our bodies absorb the forms that our forebears created. We remain faithful to these forms with no deviation. Next, in the stage of ha, once we have disciplined ourselves to acquire the forms and movements, we make innovations. In this process the forms may be broken and discarded. Finally, in ri, we completely depart from the forms, open the door to creative technique, and arrive in a place where we act in accordance with what our heart/mind desires, unhindered while not overstepping laws.
 
 Endō Seishirō shihan
+
+> Training is like fighting with a gorilla. You don’t stop when you’re tired. You stop when the gorilla is tired
+
+Greg Henderson, pro bike rider

@@ -69,3 +69,7 @@ I call the following "interpretations", as they are not direct translations from
 
 - [Asai Karate](http://asaikarate.com/ip-mans-win-chun-rules-of-conduct-wing-chun-jo-fen-%E8%91%89%E5%95%8F%E8%A9%A0%E6%98%A5%E7%A5%96%E8%A8%93/)
 - [Ving Tsun Tong](http://www.vingtsuntong.com/commandments_e.html)
+
+## My interpretations
+
+- [Spanish (Argentinian style)](wingchun-jofen_es-AR.md)

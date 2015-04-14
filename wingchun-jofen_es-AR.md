@@ -7,3 +7,5 @@
 7. Sé amable y moderado con todos, y en todos los aspectos de la vida
 8. Ayudá especialmente al débil y al joven, usando tus habilidades marciales con benevolencia
 9. Continuá la tradición, cumpliendo y preservando estas reglas de conducta
+
+Gracias a Daniel Foguelman and Uriel Jablonski por las ideas y correciones

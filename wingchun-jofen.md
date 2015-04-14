@@ -2,27 +2,27 @@
 
 ## Original Text
 
-守紀律 崇尚武德
-明禮義 愛國尊親
-愛同學 團結樂群
-節貪慾 誠信待人
-常處世 態度溫文
-學養氣 戒濫鬥爭
-勤練習 技不離身
-窮拳理 防身健體
-繼光緒 漢持祖訓
+1. 守紀律 崇尚武德
+2. 明禮義 愛國尊親
+3. 愛同學 團結樂群
+4. 節貪慾 誠信待人
+5. 常處世 態度溫文
+6. 學養氣 戒濫鬥爭
+7. 勤練習 技不離身
+8. 窮拳理 防身健體
+9. 繼光緒 漢持祖訓
 
 For completness, here is the pinyin:
 
-shǒu jìlǜ chóngshàng wǔ dé
-míng lǐ yì àiguó zūnqīn
-ài tóngxué tuánjié lè qún
-jié tān yù chéngxìn dàirén
-qín liànxí jì bùlí shēn
-xué yǎngqì jiè làn dòuzhēng
-cháng chǔshì tàidù wēn wén
-fú ruòxiǎo yǐ wǔ fǔrén
-jì guāngxù hàn chí zǔ xùn
+1. shǒu jìlǜ chóngshàng wǔ dé
+2. míng lǐ yì àiguó zūnqīn
+3. ài tóngxué tuánjié lè qún
+4. jié tān yù chéngxìn dàirén
+5. qín liànxí jì bùlí shēn
+6. xué yǎngqì jiè làn dòuzhēng
+7. cháng chǔshì tàidù wēn wén
+8. fú ruòxiǎo yǐ wǔ fǔrén
+9. jì guāngxù hàn chí zǔ xùn
 
 ## Current interpretations
 I call the following "interpretations", as they are not direct translations from the original chinese, but ways in which the authors interpret the original text's meaning

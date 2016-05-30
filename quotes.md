@@ -21,3 +21,7 @@ Endō Seishirō shihan
 > Training is like fighting with a gorilla. You don’t stop when you’re tired. You stop when the gorilla is tired
 
 Greg Henderson, pro bike rider
+
+> Through practice, the weak becomes healthy, the healthy becomes strong, the strong becomes kind, the kind becomes long living, and the long living becomes sage; through practice, one gains health and wisdom, and learns the meaning and the means of contributing to the society; through practice, one understands the principle of reciprocity, that is, do not impose on others what one does not want for himself.
+
+Wang Anlin

@@ -8,4 +8,4 @@
 8. Ayudá especialmente al débil y al joven, usando tus habilidades marciales con benevolencia
 9. Continuá la tradición, cumpliendo y preservando estas reglas de conducta
 
-Gracias a Daniel Foguelman and Uriel Jablonski por las ideas y correciones
+Gracias a Daniel Foguelman y Uriel Jablonski por las ideas y correciones
